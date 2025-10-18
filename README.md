@@ -23,10 +23,7 @@ Swagger API Docs at /swagger/
 ---
 
 ## ✅ Final Project Structure
-
-
-
-alx_travel_app_0x00/
+lx_travel_app_0x01/
 │── alx_travel_app/
 │ ├── settings.py
 │ ├── urls.py
@@ -45,8 +42,7 @@ alx_travel_app_0x00/
 │── README.md
 │── .env
 
+---
 
-
-
-
-www
+Would you like me to include **permissions and filtering (by location or price range)** in the next milestone setup (Milestone 4: API Enhancements)?  
+That would make the endpoints production-grade and ready for frontend integration.
